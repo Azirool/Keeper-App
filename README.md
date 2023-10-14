@@ -15,3 +15,7 @@ Keeper App is a simple task management web application that allows users to add 
 - Axios: Axios is used for making HTTP requests between the frontend and backend.
 - MongoDB: MongoDB is used as the database to store user tasks and data.
 - useState and useEffect Hooks: React's useState and useEffect hooks are employed to manage state and handle data fetching.
+
+## Project Screenshot
+
+![KeeperApp](/public/images/KeeperApp.png)
